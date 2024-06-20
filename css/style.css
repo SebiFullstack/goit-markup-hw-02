@@ -2,7 +2,6 @@ body {
     font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight:400, 500, 700;
-    font-display: swap;
     color: #434455;
     background-color:#fff
 }
@@ -44,8 +43,6 @@ ul, ol {
     line-height: 1.5;
     letter-spacing: 0.02em;
     list-style-type: none;
-    padding: 0;
-    margin: 0;
     text-decoration: none;
     color: #2e2f42;
 }
@@ -69,8 +66,6 @@ font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     list-style-type: none;
-    padding: 0;
-    margin: 0;
     text-decoration: none;
     color: #434455;
 }
